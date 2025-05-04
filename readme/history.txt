@@ -1,2 +1,7 @@
+2025.05.24
++ option: pass_unique - generating password without repeating characters (by default: 1)
++ special characters: @#$%
++ auto-selecting the generated password
+
 2019.01.29
 initial
